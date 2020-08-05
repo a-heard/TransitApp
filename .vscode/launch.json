@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-TransitAppApplication<TransitApp>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.tts.TransitApp.TransitAppApplication",
+            "projectName": "TransitApp",
+            "args": ""
+        }
+    ]
+}
